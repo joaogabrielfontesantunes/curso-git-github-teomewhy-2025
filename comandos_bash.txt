@@ -1,0 +1,3 @@
+ls -> lista arquivos
+cd -> abre o diretório
+pwd -> localiza o espaço aberto
